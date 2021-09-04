@@ -1,0 +1,123 @@
+# Recommended Laptop Specs
+
+Welcome to the laptop specs page! This page will note down some of the software used by students in the various pillars, with links provided to their respective system requirements (if applicable). These requirements will form the basis for our recommended laptop specs for each pillar, although your mileage may vary. A quick description of the laptop specs we refer to are listed at the very bottom of this page if you’re interested!
+
+In addition to the specs we refer to below, do also consider other factors when deciding which laptop to purchase. These factors include screen size, weight, and battery life, which will contribute to your quality of life, but are less quantifiable and more subjective.
+
+<details>
+   <summary><b>Freshmore/Non-pillar specific</b></summary>
+   <ul>
+      <li>Adobe Illustrator, Adobe Photoshop</li>
+      <li>Adobe Premiere Pro (and possibly Adobe After Effects if you’re really into it) / iMovie</li>
+      <li>Solidworks/Fusion360</li>
+      <li>Anaconda/Spyder</li>
+      <li>MATLAB</li>
+      <li>Microsoft Office</li>
+      <li>Python</li>
+   </ul>
+</details>
+
+<details>
+<summary><b>DAI</b></summary>
+<ul>
+<li>Currently unknown (to us).</li>
+</ul>
+</details>
+
+<details>
+<summary><b>ASD</b></summary>
+<ul>
+<li>Rhino</li>
+</ul>
+</details>
+
+
+
+<details>
+   <summary><b>EPD</b></summary>
+   <ul>
+      <li>Adobe Illustrator, Adobe Photoshop</li>
+      <li>Adobe Premiere Pro (and possibly Adobe After Effects if you’re really into it) / iMovie</li>
+      <li>Solidworks/Fusion360</li>
+      <li>Anaconda/Spyder</li>
+      <li>MATLAB</li>
+      <li>Microsoft Office</li>
+      <li>Python</li>
+   </ul>
+</details>
+
+
+
+<details>
+   <summary><b>Freshmore/Non-pillar specific</b></summary>
+   <ul>
+      <li>Adobe Illustrator, Adobe Photoshop</li>
+      <li>Adobe Premiere Pro (and possibly Adobe After Effects if you’re really into it) / iMovie</li>
+      <li>Solidworks/Fusion360</li>
+      <li>Anaconda/Spyder</li>
+      <li>MATLAB</li>
+      <li>Microsoft Office</li>
+      <li>Python</li>
+   </ul>
+</details>
+
+
+
+<details>
+   <summary><b>Freshmore/Non-pillar specific</b></summary>
+   <ul>
+      <li>Adobe Illustrator, Adobe Photoshop</li>
+      <li>Adobe Premiere Pro (and possibly Adobe After Effects if you’re really into it) / iMovie</li>
+      <li>Solidworks/Fusion360</li>
+      <li>Anaconda/Spyder</li>
+      <li>MATLAB</li>
+      <li>Microsoft Office</li>
+      <li>Python</li>
+   </ul>
+</details>
+
+**EPD**
+
+- Altium Designer (EE track, WINDOWS ONLY)
+- CST Microwave Studio (EE and CE track, WINDOWS ONLY)
+- NI Circuit Design Suite (EE track, WINDOWS ONLY)
+- Rhino + Grasshopper + Jeneratiff (30.316 Digital Biomimetics)
+- Xilinx Vivado Design Suite (CE track, Windows and Linux)
+
+**ESD**
+
+- R and RStudio
+- Touch and go, but you may use some of them more depending on your projects
+- Disco
+- QGIS
+- Parallel Coordinates
+- Power BI/Tableau
+- SQLite Studio
+
+**ISTD**
+
+- The IDE (integrated development environment) of your choice. That’s all.
+- Programming languages required: Java, C
+- Additional programming languages depending on your interests: Javascript (and HTML, CSS), 
+- C++, C#, R
+
+You can probably survive with the command line and Notepad.
+
+<u>Bonus round: Mac vs Windows: whichever you prefer/are more used to.</u>
+Verdict
+
+CPU:
+
+GPU:
+
+RAM:
+
+Storage:
+
+If you intend to do machine learning, you will probably make use of cloud computing rather than doing so locally.
+
+Description of Laptop Specs
+CPU:
+GPU:
+RAM:
+Storage:

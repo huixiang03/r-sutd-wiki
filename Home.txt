@@ -1,0 +1,22 @@
+# **Wiki**
+
+aka /r/sutd
+
+## **FAQ**
+
+**Purpose**
+
+The purpose of this Wiki is to provide answers to frequently asked questions in a single place. This aims to cut down on the number of repeat posts, and hence people’s time spent replying to the same thing over and over again.
+
+**Sections**
+
+The Wiki currently comprises two sections:
+
+[FAQ](https://www.reddit.com/r/trial_wiki/wiki/faq): most things go here
+
+[Laptop specs](https://www.reddit.com/r/trial_wiki/wiki/laptopspecs): a page where the software used by students in the various pillars are detailed, with links provided to their system requirements. These requirements will form the basis for the required laptop specs per pillar.
+
+**Important Info**
+
+This first page is mainly for our reference only, no need to include it in the live thing.The pages on Reddit must have a note stating when the page was last updated. This may be made more granular (ie. when the section was last updated) for the FAQ section.
+
